@@ -2,7 +2,7 @@
 
 Below is a fake challenge that has a typo. The source code of the HTML file also has an error. But to test that the fix works, we need to work on that file locally.
 
-## Creat aprofile page with HTML
+## Create a profile page with HTML
 
 ### Release 1
 
